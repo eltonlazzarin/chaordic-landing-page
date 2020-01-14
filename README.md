@@ -24,7 +24,7 @@
 
 ### :rocket: Frontend Technologies (WebApp)
 
-<img alt="Github Search Page" src="https://github.com/eltonlazzarin/github-search-repositories-clone/blob/master/src/screenshot/searchPage.png">
+<img alt="Github Search Page" src="https://github.com/eltonlazzarin/chaordic-landing-page">
 
 <p align="center">
   <button><a href="https://github-search-repo-app.netlify.com/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
