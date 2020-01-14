@@ -18,7 +18,7 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/chaordic-landing-page">
 
-  <img src="https://api.netlify.com/api/v1/badges/5da5f1f6-af2b-44d8-8043-5fa439e1ed31/deploy-status" alt="Netlify Status">
+  <img src="https://api.netlify.com/api/v1/badges/c29cc833-ccc5-4fcf-91b4-2fa927cf748f/deploy-status" alt="Netlify Status">
 
   <img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled-Components">
 
@@ -54,7 +54,7 @@ $ yarn start
 
 ### :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/github-search-repositories-clone/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/chaordic-landing-page/blob/master/LICENSE) for more information.
 
 ---
 
