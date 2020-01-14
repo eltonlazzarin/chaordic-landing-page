@@ -25,7 +25,7 @@ export default function Main() {
         <h2>Shorten your links.</h2>
         <p>
           Links are long. Shorten the links you want to share, and follow along
-          as they travel over the internet.
+          as it travel over the internet.
         </p>
         <form onSubmit={handleFormSubmit}>
           <input type="text" placeholder={placeholderValue} />
