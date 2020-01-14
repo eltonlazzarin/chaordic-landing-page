@@ -16,7 +16,7 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/chaordic-landing-page">
 
-<img alt="GitHub" src="<img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/chaordic-landing-page">">
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/chaordic-landing-page">
 
   <img src="https://api.netlify.com/api/v1/badges/c29cc833-ccc5-4fcf-91b4-2fa927cf748f/deploy-status" alt="Netlify Status">
 
