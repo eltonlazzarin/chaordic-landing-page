@@ -33,6 +33,7 @@
 
 - [ReactJS](https://reactjs.org/)
 - [React Router v4](https://github.com/ReactTraining/react-router)
+- [Axios](https://github.com/axios/axios)
 - [styled-components](https://www.styled-components.com/)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
