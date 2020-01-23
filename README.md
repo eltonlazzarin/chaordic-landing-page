@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
     <img alt="" src="" />
     <br>
     Linx/Chaordic Landing Page Challenge
