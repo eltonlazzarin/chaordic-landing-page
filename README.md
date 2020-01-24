@@ -1,7 +1,7 @@
-        <h1 align="center">
-    <img alt="" src="" />
-    <br>
-    Linx/Chaordic Landing Page Challenge
+<h1 align="center">
+  <img alt="" src="" />
+  <br>
+  Linx/Chaordic Landing Page Challenge
 </h1>
 
 <h4 align="center">
