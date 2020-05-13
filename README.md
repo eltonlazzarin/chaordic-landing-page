@@ -53,7 +53,7 @@ $ yarn
 $ yarn start
 ```
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/chaordic-landing-page/blob/master/LICENSE) for more information.
 
